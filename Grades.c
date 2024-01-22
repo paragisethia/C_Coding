@@ -35,7 +35,8 @@ int main ()
 
     else 
     {
-        printf ("Please masti nhi, sahi grade dal bhosdike \n") ;
+        printf ("Please enter correct marks.
+        \n") ;
     }
 
 
